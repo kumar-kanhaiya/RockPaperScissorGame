@@ -18,7 +18,10 @@ Challenge the computer and see who wins!
 
 ## 📸 Screenshots
 
-*(Optional: add screenshots of the game UI here if available)*
+<img width="1912" height="944" alt="image" src="https://github.com/user-attachments/assets/03d084f2-892b-4d31-8f32-aaf608c22eb6" />
+<img width="1145" height="851" alt="image" src="https://github.com/user-attachments/assets/d1376e33-2485-4107-9be7-b1affdbe113d" />
+
+
 
 ---
 
